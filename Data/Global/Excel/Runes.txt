@@ -117,8 +117,8 @@ Runeword84	Mist																																															0
 Runeword85	Morning Dew																																															0
 Runeword86	Mystery																																															0
 Runeword87	Myth	1		tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
-Runeword96	Patience																																															0
-Runeword97	Pattern	1		h2h										r07	r09	r03				att%		10	10	dmg%		40	80	dmg-fire		12	32	res-all		15	15	str		6	6	dex		6	6	block2		30	30	0
+Runeword95	Patience																																															0
+Runeword97	Pattern			h2h										r07	r09	r03				att%		10	10	dmg%		40	80	dmg-fire		12	32	res-all		15	15	str		6	6	dex		6	6	block2		30	30	0
 Runeword98	Peace	1		tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	2	15	gethit-skill	Slow Missiles	4	5	ama		2	2	oskill	Critical Strike	2	2													0
 Runeword100	Penitence																																															0
 Runeword101	Peril																																															0
@@ -126,7 +126,7 @@ Runeword102	Pestilence																																															0
 Runeword103	Phoenix	1		weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		350	400	ac-miss		350	400	hit-skill	Firestorm	40	22	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	15	abs-fire		15	21	0
 Runeword104	Piety																																															0
 Runeword105	Pillar of Faith																																															0
-Runeword106	Plague	1		weap									ChamFalUm	r32	r19	r22				dmg-demon		260	380	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
+Runeword106	Plague			weap									ChamFalUm	r32	r19	r22				dmg-demon		260	380	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
 Runeword107	Praise																																															0
 Runeword108	Prayer																																															0
 Runeword109	Pride	1		pole									ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	280	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	25	17	regen		8	8	gold%/lvl	15			0
@@ -152,9 +152,9 @@ Runeword149	Trust																																															0
 Runeword150	Truth																																															0
 Runeword151	Unbending Will																																															0
 Runeword152	Valor																																															0
-Runeword153	Vengeance																																															0
+Runeword153	Vengeance			weap										r06	r11	r01																																0
 Runeword155	Victory																																															0
-Runeword156	Voice																																															0
+Runeword156	Voice			helm										r03	r06																																	0
 Runeword157	Void																																															0
 Runeword158	War																																															0
 Runeword159	Water																																															0
@@ -163,8 +163,8 @@ Runeword47	Widowmaker	1		swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg
 Runeword163	Wind	1		mele										r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	245	10	9	charged	240	127	13	balance2		15	15	0
 Runeword164	Wings of Hope																																															0
 Runeword99	Winter	1		swor	mace								LemKoElEld	r20	r18	r01	r02			dmg-demon		220	350	dmg-undead		280	300	dmg-cold		100	220	pierce-cold		24	24	hit-skill	Ice Blast	18	20	hit-skill	Frozen Orb	15	13	nofreeze		1	1	0
-Runeword165	Wisdom																																															0
-Runeword166	Woe																																															0
-Runeword167	Wonder																																															0
+Runeword165	Wisdom			shld	staf	wand																																										0
+Runeword166	Woe			weap	miss																																											0
+Runeword167	Wonder			wand										r04	r12	r24																																0
 Runeword168	Wrath	1		miss									PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																															0

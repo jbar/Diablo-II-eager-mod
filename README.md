@@ -1,5 +1,5 @@
-Diablo-II-eager-mod
-===================
+Diablo-II-eager-mod (v1.1)
+==========================
 
 "Play Faster, Live More" : This enhancement is a "MUST HAVE" for Diablo II's eager players.
 
@@ -13,6 +13,8 @@ Features
    * more uniques, set and rare.
    * more high quality normal items (for runewords).
  * Gamble chances to get Rare, Set or Unique items have been significantly increased (~ x100).
+ * Gambles are now open to almost all armors and weapons.
+ * Balance armor prices and gamble prices.
  * All Gems and Runes are available in shops.
  * All Runewords (including ladder's ones) are enabled.
  * All Cube recipes (including ladder's ones) are enabled.

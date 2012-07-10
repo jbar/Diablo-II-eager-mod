@@ -62,7 +62,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 perfect gems + 1 magic item -> magic item	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
 6 perfect skulls + 1 rare item -> 1 low level rare item	1			0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
 1 perfect skull + 1 rare item + soj -> 1 high level rare item	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
-3 perfect skull + 1 rare item + stone of jordan-> add 1 socket to rare	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
+3 perfect skull + 1 item + stone of jordan-> add 1 socket to item	1			0					5	"any,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
 magic full helm + jewel + rune 06 + perfect sapphire -> hitpower helm	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
 magic chain boots + jewel + rune 08 + perfect sapphire -> hitpower boots	1			100					4	"mbt,mag,upg"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
 magic chain gloves + jewel + rune 09 + perfect sapphire -> hitpower gloves	1			100					4	"mgl,mag,upg"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
@@ -148,6 +148,8 @@ r08 + jew + magic ring -> tempered ring	1			100					3	"ring,mag"	jew	r08					"us
 r08 + jew + magic amulet -> tempered amulet	1			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 r01 + gcv + tempered weapon -> +30-50 ar	1			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
+1 Wirt's leg + basic armor + soj -> exceptional armor	1			0					3	"armo,bas"	leg	The Stone of Jordan					"useitem,mod,exc"				levelreq			5	5																																																																															0
+1 town portal book + basic weapon + soj -> exceptional weapon	1			0					3	"weap,bas"	tbk	The Stone of Jordan					"useitem,mod,exc"				levelreq			5	5																																																																															0
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0

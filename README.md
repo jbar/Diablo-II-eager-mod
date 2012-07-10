@@ -1,4 +1,4 @@
-Diablo-II-eager-mod (v1.2)
+Diablo-II-eager-mod (v1.3)
 ==========================
 
 "Play Faster, Live More" : This enhancement is a "MUST HAVE" for Diablo II's eager players.
@@ -15,12 +15,16 @@ Features
  * Gamble chances to get Rare, Set or Unique items have been significantly increased (~ x100).
  * Gambles are now open to almost all armors and weapons.
  * Balance armor prices and gamble prices.
- * All Gems and Runes are available in shops.
+ * All Gems are available in shops.
+ * All Runes are available in Larzuk's shop (Act V).
  * All Runewords (including ladder's ones) are enabled.
  * Cube recipe enhancements : 
    * All Cube recipes (including ladder's ones) are enabled.
    * Recipes for creating socketed normal items now permit also to reroll socket number on a socketed normal item.
-   * New recipe : Zod rune + perfect skull + any reparable socketed item -> the item become ethereal.
+   * New recipes :
+     - Zod rune + perfect skull + any reparable socketed item -> the item become ethereal.
+     - 1 Wirt's leg + basic armor + soj -> exceptional armor (usefull in D2 Classic).
+     - 1 town portal book + basic weapon + soj -> exceptional weapon (usefull in D2 Classic).
  * All Uniques (including ladder's ones, charms) are enabled and droppable.
  * Increase the stack size for arrows, bolts, books and keys.
  * Increase the merchants limit when solding items (up to 80000 in Act5 Hell).

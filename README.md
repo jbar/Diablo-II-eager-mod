@@ -18,9 +18,9 @@ Features
  * All Gems are available in shops.
  * All Runes are available in Larzuk's shop (Act V).
  * All Runewords (including ladder's ones) are enabled.
- * Cube recipe enhancements : 
-   * All Cube recipes (including ladder's ones) are enabled.
-   * Recipes for creating socketed normal items now permit also to reroll socket number on a socketed normal item.
+ * Horadric cube recipe enhancements :
+   * All cube recipes (including ladder's ones) are enabled.
+   * Recipes for creating socketed normal items now permit also to reroll socket number on a socketed normal item.[^Socket recipes]
    * New recipes :
      - Zod rune + perfect skull + any reparable socketed item -> the item become ethereal.
      - 1 Wirt's leg + basic armor + soj -> exceptional armor (usefull in D2 Classic).
@@ -28,7 +28,7 @@ Features
  * All Uniques (including ladder's ones, charms) are enabled and droppable.
  * Increase the stack size for arrows, bolts, books and keys.
  * Increase the merchants limit when solding items (up to 80000 in Act5 Hell).
- * Compatible with almost all "Diablo II - LOD" versions (1.10 to 1.13d).
+ * Compatible with almost all "Diablo II - LOD" versions (1.10 to 1.14d).
 
 Install
 -------
@@ -43,4 +43,19 @@ Run
 Notes
 -----
   Obviously you can't play on battle.net with this mod, altough you may easily turn it off : just launch without "-direct -txt".
+
+
+Links
+-----
+
+- Plugy: <http://plugy.free.fr/>
+- Diablo2Inventory: <https://github.com/cowlevel/Diablo2Inventory>
+
+---
+
+[^Socket recipes]: Reminder:
+    - 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + Normal Body Armor -> Socketed Body Armor of same type
+    - 1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + Normal Weapon -> Socketed Weapon of same type
+    - 1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + Normal Helm --> Socketed Helm of same type
+    - 1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + Normal Shield --> Socketed Shield of same type
 
